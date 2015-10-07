@@ -1,14 +1,14 @@
 # Pre-Processing-Hyperspectral-Images
 
-Algorithms are carried out on the Hyperspectral Image, Hawaii.raw. 
+The Algorithms are carried out on the Hyperspectral Image, Hawaii.raw. 
 
-The different band re-ordering algorithms that are implemented are
+The different band re-ordering algorithms that are implemented,
 
 - Greedy Ordering Algorithm
 - Merge Sort
 - Heap Sort
 
-In each Algorithm the different scanning techniques that are implemented are
+In each algorithm the different scanning techniques that are implemented,
 
 - Raster
 - ZigZag
